@@ -60,7 +60,6 @@ graph TD;
 
 ---
 
-## 🚀 Future Plans
 - Add **Home Assistant** for smart home automation
 - Implement **CI/CD pipelines** for self-hosted apps
 - Integrate **monitoring tools** (Grafana + Prometheus)
